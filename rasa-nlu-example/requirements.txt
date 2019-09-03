@@ -1,2 +1,2 @@
-rasa_nlu
+rasa_nlu==0.13.8
 pyhanlp
